@@ -6,6 +6,7 @@ https://www.techleer.com/articles/230-understanding-machine-learning-from-theory
 * O'Reilly Free eBooks on Data Science : https://www.oreilly.com/data/free/archive.html
 
 ## Courses
+* Google ML & TensorFlow crash course : https://developers.google.com/machine-learning/crash-course/
 * Kaggle : https://www.kaggle.com/learn/overview
 * Carnegie Mellon University Introduction to Deep Learning course
   * Website (slides) : http://deeplearning.cs.cmu.edu/
@@ -13,3 +14,5 @@ https://www.techleer.com/articles/230-understanding-machine-learning-from-theory
 ## General Overview
 ## Machine Learning Frameworks
 ## Machine Learning HW
+## Other ML projects
+* Collective Knowledge : https://github.com/ctuning/ck
